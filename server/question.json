@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Apakah benar 1 + 1 = 2?",
+    "answer": "benar%salah",
+    "correct_answer": "benar",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Manakah bilangan genap?",
+    "answer": "1%2%3%4",
+    "correct_answer": "2%4",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "Ada berapakah ayam di gambar?",
+    "answer": "8",
+    "correct_answer": "8",
+    "image_question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpdEokqq7p47UeCppP0gNTuVrwzwAMDwyuA&usqp=CAU",
+    "image_loop": 8,
+    "score": 10,
+    "type": "number"
+  },
+  {
+    "question": "Apakah nama hewan yang ada di gambar?",
+    "answer": "gajah",
+    "correct_answer": "gajah",
+    "image_question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFSHFdOvQqG5y7-AZpqiRoby6WRxXVgk-Dw&usqp=CAU",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "Berapakah hasil 5 + 5 * 0 + 5?",
+    "answer": "0%15%10%5",
+    "correct_answer": "10",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Apakah nama permainan yang ada di gambar?",
+    "answer": "catur",
+    "correct_answer": "catur",
+    "image_question": "https://s0.bukalapak.com/uploads/content_attachment/0f0c5e0020e8d762ed8214c5/w-744/catur-online-terbaik-main-foto.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "1 Jam berapa ... detik?",
+    "answer": "360%36%3600%3656",
+    "correct_answer": "3600",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Mana pernyataan yang benar dari pernyataan berikut",
+    "answer": "1 menit = 60 detik%1 jam = 60 menit%10 jam = 601 menit%10 menit 601 detik",
+    "correct_answer": "1 menit = 60 detik%1 jam = 60 menit",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "apabila a < b < c, mana pernyataan yang benar?",
+    "answer": "a < c%b > a%a > b%a > c",
+    "correct_answer": "a < c%b > a",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "500 + 10 / 2 * 5 + 10, hasilnya?",
+    "answer": "1285%511%305%535",
+    "correct_answer": "535",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  }
+]
