@@ -5,7 +5,7 @@ function authorization (req, res, next) {
   } else {
     next({status: 401 , message: 'Tidak Mempunyai Otorisasi'})
   }
-
+  
 }
 
 module.exports = authorization
