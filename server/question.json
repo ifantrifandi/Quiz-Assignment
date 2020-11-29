@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Apakah benar 1 + 1 = 2?",
+    "answer": "benar%salah",
+    "correct_answer": "benar",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Manakah bilangan genap?",
+    "answer": "1%2%3%4",
+    "correct_answer": "2%4",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "Ada berapakah ayam di gambar?",
+    "answer": "8",
+    "correct_answer": "8",
+    "image_question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpdEokqq7p47UeCppP0gNTuVrwzwAMDwyuA&usqp=CAU",
+    "image_loop": 8,
+    "score": 10,
+    "type": "number"
+  },
+  {
+    "question": "Apakah nama hewan yang ada di gambar?",
+    "answer": "gajah",
+    "correct_answer": "gajah",
+    "image_question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFSHFdOvQqG5y7-AZpqiRoby6WRxXVgk-Dw&usqp=CAU",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "Berapakah hasil 5 + 5 * 0 + 5?",
+    "answer": "0%15%10%5",
+    "correct_answer": "10",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Apakah nama permainan yang ada di gambar?",
+    "answer": "catur",
+    "correct_answer": "catur",
+    "image_question": "https://s0.bukalapak.com/uploads/content_attachment/0f0c5e0020e8d762ed8214c5/w-744/catur-online-terbaik-main-foto.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "1 Jam berapa ... detik?",
+    "answer": "360%36%3600%3656",
+    "correct_answer": "3600",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Mana pernyataan yang benar dari pernyataan berikut",
+    "answer": "1 menit = 60 detik%1 jam = 60 menit%10 jam = 601 menit%10 menit = 601 detik",
+    "correct_answer": "1 menit = 60 detik%1 jam = 60 menit",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "apabila a < b < c, mana pernyataan yang benar?",
+    "answer": "a < c%b > a%a > b%a > c",
+    "correct_answer": "a < c%b > a",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "500 + 10 / 2 * 5 + 10, hasilnya?",
+    "answer": "1285%511%305%535",
+    "correct_answer": "535",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Dari gambar hewan - hewan dibawah ini merupakan hewan pemakan daging atau yang disebut?",
+    "answer": "karnivora%herbivora%omnivora%bukan ketiganya",
+    "correct_answer": "karnivora",
+    "image_question": "https://asset-a.grid.id/crop/0x0:0x0/780x800/photo/bobofoto/original/2158_singa.jpg%https://www.blibli.com/friends/assets/2020/07/macan-tutul-1024x576.jpg%https://mello.id/wp-content/uploads/2019/08/Perbedaan-Elang-dan-Rajawali.jpg%https://static.wixstatic.com/media/5e658a_a9eac675a83a4095a175f0d7af87132d~mv2.jpg/v1/fill/w_480,h_360,al_c,q_90/5e658a_a9eac675a83a4095a175f0d7af87132d~mv2.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Dari gambar hewan - hewan dibawah ini merupakan hewan pemakan tumbuhan atau yang disebut?",
+    "answer": "karnivora%herbivora%omnivora%bukan ketiganya",
+    "correct_answer": "herbivora",
+    "image_question": "https://cdn.idntimes.com/content-images/community/2020/05/american-quarter-horse-f066c8e78e52bd2dd9991cf37bc90f5d.jpg%https://duniasapi.com/media/k2/items/cache/75b44b0e9c2e5d305fa323c6c51d3476_Generic.jpg%https://1.bp.blogspot.com/-F-Z1L_j0c4w/XlXuYgmbo5I/AAAAAAAAHis/-EveuHXessMmTT_1wdd2lVgUlsUm6l5mQCLcBGAsYHQ/s640/Ternak-Kambing-Boer-Contoh-Usaha-Kecil-Yang-Menjanjikan.jpg%https://cdn0-production-images-kly.akamaized.net/Q9mek9ZQeph88_WEWIHtPruHO20=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3161542/original/043729400_1593000862-Ilustrasi_Gajah.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Dari kedua angka dibawah, mana yang dijumlahkan menjadi angka 11?",
+    "answer": "1 , 1%10 , 1%6 , 5%11 , 0",
+    "correct_answer": "10 , 1%6 , 5%11 , 0",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "1 + 1 + 11 + 1 + 1 = ?",
+    "answer": "15",
+    "correct_answer": "15",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "number"
+  },
+  {
+    "question": "Apa Nama Hewan dibawah ini?",
+    "answer": "anjing",
+    "correct_answer": "anjing",
+    "image_question": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/02/anjing1.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "500 * 100 * 0 = ?",
+    "answer": "50000%500000%0%500",
+    "correct_answer": "0",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "500 + 100 + 25 + 25 * 0 = ?",
+    "answer": "0%625%650%600",
+    "correct_answer": "625",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  },
+  {
+    "question": "Mana Pernyataan yang tepat dibawah ini?",
+    "answer": "5 + 1 = 6%5 + 2 = 8%5 * 0 = 5%5 * 0 = 0",
+    "correct_answer": "5 + 1 = 6%5 * 0 = 0",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "checkbox"
+  },
+  {
+    "question": "Apa Nama Hewan dibawah ini?",
+    "answer": "kucing",
+    "correct_answer": "kucing",
+    "image_question": "https://asset.kompas.com/crops/AOqycoSV_pH5eU51rYStWW_zVFY=/1x0:1000x666/750x500/data/photo/2019/11/04/5dbfff829ebe6.jpg",
+    "image_loop": null,
+    "score": 10,
+    "type": "text"
+  },
+  {
+    "question": "1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = ?",
+    "answer": "10%11%12%9",
+    "correct_answer": "10",
+    "image_question": null,
+    "image_loop": null,
+    "score": 10,
+    "type": "radio"
+  }
+]
