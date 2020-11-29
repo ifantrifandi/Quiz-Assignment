@@ -1,9 +1,9 @@
 const express = require('express')
 const router = express.Router()
 const QuizController = require('../controller/quiz-controller')
-// const authentication = require('../middleware/authentication')
+const authentication = require('../middleware/authentication')
 
-// router.use(authentication)
+router.use(authentication)
 router.get('/', QuizController.getQuiz)
 router.post('/', QuizController.postQuiz)
 

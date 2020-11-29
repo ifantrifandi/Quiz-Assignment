@@ -1,14 +1,16 @@
-import {SET_QUIZ, SET_ALL_FINISHED_QUIZ, SET_ERROR, SET_FINISHED_QUIZ, SET_QUESTION_STATUS, SET_LOADING, SET_INDEX, SET_CURRENT_QUIZ} from './action/action-type'
+import {SET_QUIZ, SET_RANDOM_QUIZ, SET_ERROR, SET_QUESTION_STATUS, SET_LOADING, SET_INDEX, SET_CURRENT_QUIZ, SET_SCORE, SET_MESSAGE, SET_LEADERBOARD} from './action/action-type'
 
 const initialState = {
   quiz : [],
-  finishedQuiz : [],
-  allFinishedQuiz : [],
+  randomQuiz : [],
   questionStatus : [],
   currentQuiz : {},
   error : '',
   index : 0,
-  loading : false
+  score : 0,
+  loading : false,
+  message: '',
+  leaderboard: []
 }
 
 function reducer (state = initialState, action) {
@@ -16,10 +18,8 @@ function reducer (state = initialState, action) {
   switch(action.type) {
     case SET_QUIZ :
         return {...state, quiz: action.payload}
-    case SET_FINISHED_QUIZ : 
-        return {...state, finishedQuiz: action.payload}
-    case SET_ALL_FINISHED_QUIZ :
-        return {...state, allFinishedQuiz: action.payload}
+    case SET_RANDOM_QUIZ :
+        return {...state, randomQuiz: action.payload}
     case SET_QUESTION_STATUS :
         return {...state, questionStatus: action.payload}
     case SET_ERROR :
@@ -30,6 +30,12 @@ function reducer (state = initialState, action) {
         return {...state, currentQuiz: action.payload}
     case SET_INDEX:
         return {...state, index: action.payload}
+    case SET_SCORE:
+        return {...state, score: action.payload}
+    case SET_MESSAGE:
+        return {...state, message: action.payload}
+    case SET_LEADERBOARD:
+        return {...state, leaderboard: action.payload}        
     default :
       return state
   }

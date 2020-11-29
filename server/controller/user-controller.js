@@ -32,7 +32,7 @@ class UserController {
             const access_token = jwt.sign({username: data.username, id: data.id}, process.env.SECRET_KEY)
             res
               .status(200)
-              .json({access_token, username: data.username, highest_score: data.highest_score})
+              .json({access_token, username: data.username, highest_score: data.highest_score, id: data.id})
           } else {
             next({status: 404, message: 'Username / Password salah'})  
           }
